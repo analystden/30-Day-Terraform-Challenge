@@ -1,1 +1,1 @@
-How're you?
+Welcome to the 30-Day Terraform Challenge, proudly organized by AWS AI/ML UserGroup Kenya, Meru HashiCorp User Group, and EveOps. This challenge is designed to take you from Terraform fundamentals to certification-ready in 30 structured days, building real infrastructure along the way.
